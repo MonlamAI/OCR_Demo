@@ -17,3 +17,4 @@ Selecting Pages having Unique Page layout
 - [ ] ཤོག་དུ་དམིགས་གསལ་བ་དེ་འདེམ་སྒྲུག་བྱས་ནས་unique_imagesནང་དུ་འདྲ་བཤུས་བྱེད།
 - [ ] དཔར་རིས་དེ་རྣམས་github repo ནང་དུ་བླུགས་།
 
+[zip_url]: https://github.com/MonlamAI/OCR_Demo/releases/download/v0.1/W26071.zip
